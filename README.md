@@ -5,7 +5,7 @@ This project contains all the necessary step to run a 3-tier app using Github ac
 It is better to run this on EC2 instance so that so we dont need to install all the software in our local machine.
 
 
-![Alt text](workflow.png)
+![Alt text](workflow)
 
 ## Installation
 Install all the packages.
