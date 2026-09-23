@@ -118,7 +118,7 @@ docker run -d --name sonarqube -p 9000:9000 sonarqube
 
 # CI process of The App
 
-In you github repo, add .github/workflows/<build_name>.yaml
+In the github repo, add .github/workflows/<build_name>.yaml
 
 checkout the yaml file to understand what is going on the workflow.
 
